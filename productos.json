@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nombre": "HELADERA",
+        "precioVenta": 90000,
+        "imagen": "images/imagenHeladera.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "CALEFACTOR",
+        "precioVenta": 10000,
+        "imagen": "images/imagenCalefactor.jpg"
+
+    },
+    {
+        "id": 3,
+        "nombre": "AA",
+        "precioVenta": 100000,
+        "imagen": "images/imagenAire.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "COMPUTADORA",
+        "precioVenta": 120000,
+        "imagen": "images/imagenComputadora.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "LAVAVAJILLAS",
+        "precioVenta": 55000,
+        "imagen": "images/imagenLavavajillas.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "TELEVISOR",
+        "precioVenta": 68000,
+        "imagen": "images/imagenTV.jpg"
+    }
+]
